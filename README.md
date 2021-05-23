@@ -2,4 +2,4 @@
 
 💾 I'm currently studying and learning Database. 
 
-👨‍🏫 I am a Computer Systems Engineering Student.
+👨‍🏫 I am a student of Computers Systems Engineering.
