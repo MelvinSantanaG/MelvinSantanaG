@@ -1,6 +1,6 @@
-Hi everybody I'm from 🇩🇴. 
+Hi everybody I'm live 🇩🇴. 
 
-Hola a todos soy de 🇩🇴.
+Hola a todos yo soy de 🇩🇴.
 
 👨‍💻 I’m currently studying and learning all kinds of Programming Languages.
 
