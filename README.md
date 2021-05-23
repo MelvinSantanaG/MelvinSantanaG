@@ -1,5 +1,3 @@
-👨‍🏫 I'm currently studying in the university.
+👨‍💻 I’m currently studying and learning all kinds of Programming Languages.
 
-👨‍💻 I’m currently learning all kinds of Programming Languages.
-
-💾 Database
+💾 I'm currently studying and learning Database. 
