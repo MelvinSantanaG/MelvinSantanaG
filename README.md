@@ -1,2 +1,3 @@
-### 👨‍🏫 I'm currently studying some programming languages that are great!
-### 👨‍💻 I’m currently learning Programming in c, c++, c#, Java.
+### 👨‍🏫 I'm currently studying in the university.
+### 👨‍💻 I’m currently learning all kinds the Programming.
+💾 Database
