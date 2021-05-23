@@ -1,3 +1,7 @@
+Hi everybody I'm from 🇩🇴. 
+
+Hola a todos soy de 🇩🇴.
+
 👨‍💻 I’m currently studying and learning all kinds of Programming Languages.
 
 💾 I'm currently studying and learning Database. 
