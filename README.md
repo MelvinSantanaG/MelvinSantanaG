@@ -4,10 +4,10 @@
 
 👨‍💻 I’m currently studying and learning all kinds of Programming Languages.
 
-👨‍💻 Actualmente estoy estudiando y aprendiendo todo tipo de lenguajes de programación.
+👨‍💻 Actualmente estoy estudiando y aprendiendo todo tipos de lenguajes de programación.
 
-💾 I'm currently studying and learning Database. 
+💾 I'm currently studying and learning DataBase. 
 
-💾 Actualmente estoy estudiando y aprendiendo Base de datos.
+💾 Actualmente estoy estudiando y aprendiendo Base De Datos.
 
 👨‍🏫 I am a student of Computers Systems Engineering.
