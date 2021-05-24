@@ -10,4 +10,4 @@
 
 💾 Actualmente estoy estudiando y aprendiendo Base De Datos.
 
-👨‍🏫 I am a student of Computers Systems Engineering.
+👨‍🏫 I am a student of Computers Systems Engineering's.
