@@ -1,12 +1,12 @@
-🖐 Hi everybody, I'm live in 🇩🇴. 
+🖐 Hi everybody, I am live in 🇩🇴. 
 
 🖐 Hola a todos, vivo en 🇩🇴.
 
-👨‍💻 I’m currently studying and learning all kinds of Programming Languages.
+👨‍💻 I am currently studying and learning all kinds of Programming Languages.
 
 👨‍💻 Actualmente estoy estudiando y aprendiendo todo tipos de lenguajes de programación.
 
-💾 I'm currently studying and learning DataBase. 
+💾 I am currently studying and learning DataBase. 
 
 💾 Actualmente estoy estudiando y aprendiendo Base De Datos.
 
