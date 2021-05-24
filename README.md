@@ -1,4 +1,4 @@
-🖐 Hi everybody, I am live in 🇩🇴. 
+🖐 Hi everybody, I live in 🇩🇴. 
 
 🖐 Hola a todos, vivo en 🇩🇴.
 
