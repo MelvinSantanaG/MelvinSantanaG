@@ -16,7 +16,7 @@ Hi there 👋
 
 🆎️ C#.
 
-📃 HTML, HTML5.
+📃 HTML5.
 
 📝 CSS
 
