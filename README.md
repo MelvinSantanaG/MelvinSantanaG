@@ -5,11 +5,17 @@ Hi there 👋
 🇩🇴 I currently live in Dominican Republic.
 
 🌱 I am currently these are my learning objectives
+
 ⛾ Java. 
+
 🐍 Python.
+
 🅰️ C.
+
 🅱️ C++.
+
 🆎️ C#.
+
 💾 DataBase. 
 
 
