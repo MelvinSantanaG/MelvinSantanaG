@@ -6,9 +6,9 @@ Hi there 👋
 
 🌱 I am currently these are my learning objectives
 
-⛾ Java. 
+⛾ JAVA. 
 
-🐍 Python.
+🐍 PYTHON.
 
 🅰️ C.
 
@@ -16,8 +16,13 @@ Hi there 👋
 
 🆎️ C#.
 
-💾 DataBase. 
+📃 HTML, HTML5.
 
+📝 CSS
+
+📄 JAVASCRIPT.
+
+💾 DATABASE. 
 
 
 <!--
