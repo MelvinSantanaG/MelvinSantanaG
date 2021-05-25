@@ -1,8 +1,8 @@
 Hi there 👋
 
-🇩🇴 I was born in the Dominican Republic.
+I was born in the Dominican Republic.
 
-🇩🇴 I currently live in Dominican Republic.
+I currently live in Dominican Republic.
 
 🌱 I am currently these are my learning objectives
 
