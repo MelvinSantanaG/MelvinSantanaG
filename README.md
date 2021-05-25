@@ -1,6 +1,18 @@
 Hi there 👋
 
-🌱 I am currently learning Language Programming and DataBase. 
+🇩🇴 I was born in the Dominican Republic.
+
+🇩🇴 I currently live in Dominican Republic.
+
+🌱 I am currently these are my learning objectives
+⛾ Java. 
+🐍 Python.
+🅰️ C.
+🅱️ C++.
+🆎️ C#.
+💾 DataBase. 
+
+
 
 <!--
 **MelvinSantanaG/MelvinSantanaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
