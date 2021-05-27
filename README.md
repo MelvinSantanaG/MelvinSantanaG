@@ -16,11 +16,9 @@ Hi there 👋
 
 🆎️ C#.
 
-📃 HTML5.
+📄 HTML5 + 👕👖 CCS + 💡 JAVASCRIPT.
 
-📝 CSS
-
-📄 JAVASCRIPT.
+📄 HTML5 + 👕👖 CCS + 💡 JAVASCRIPT + BOOTSTRAP.
 
 💾 DATABASE. 
 
