@@ -16,9 +16,9 @@ Hi there 👋
 
 🆎️ C#.
 
-📄 HTML5 + 👕👖 CCS + 💡 JAVASCRIPT.
+📄 HTML5 + 🧢👕👖👟 CCS + 💡 JAVASCRIPT.
 
-📄 HTML5 + 👕👖 CCS + 💡 JAVASCRIPT + BOOTSTRAP.
+📄 HTML5 + 🧢👕👖👟 CCS + 💡 JAVASCRIPT + BOOTSTRAP.
 
 💾 DATABASE. 
 
