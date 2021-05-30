@@ -31,9 +31,9 @@ https://www.spanishdict.com
 https://www.yourdictionary.com
 https://www.thefreedictionary.com
 https://www.linguee.com
-mobile-dictionary.reverso.net
+https://www.mobile-dictionary.reverso.net
 https://www.merriam-webster.com
-www.collinsdictionary.com
+https://www.collinsdictionary.com
 https://www.wordhippo.com
 
 <!--
