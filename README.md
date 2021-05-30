@@ -25,32 +25,55 @@
 👨‍🏫 These are my favorite pages for researching English vocabulary.
 
 https://www.wordreference.com
+
 https://www.dictionary.com
+
 https://www.oxfordlearnersdictionaries.com
+
 https://www.spanishdict.com
+
 https://www.yourdictionary.com
+
 https://www.thefreedictionary.com
+
 https://www.linguee.com
+
 https://www.mobile-dictionary.reverso.net
+
 https://www.merriam-webster.com
+
 https://www.collinsdictionary.com
+
 https://www.wordhippo.com
 
 🔎 These are my favorite pages for researching programming languages.
 
 https://www.bitdegree.org
+
 https://www.codecademy.com
+
 https://www.freecodecamp.org
+
 https://www.codewars.com
+
 https://www.udemy.com
+
 https://docs.microsoft.com/en-us
+
 https://www.rafaelacosta.net/Blog/2018/6/6/entity-framework-core-database-first-en-aplicaciones-net-mvc
+
 https://www.syncfusion.com/succinctly-free-ebooks/visual-studio-2019-succinctly
+
 https://entityframeworkcore.com/approach-database-first
+
 https://www.devart.com/dotconnect/postgresql/docs/EFCore-Database-First-NET-Core.html
+
 https://www.entityframeworktutorial.net/efcore/create-model-for-existing-database-in-ef-core.aspx
+
 https://www.freecodecamp.org/espanol
+
 https://leetcode.com
+
 https://sparraguerra.wordpress.com/2015/06/18/c-como-ha-evolucionado-nuestro-lenguaje-favorito
 
 <!--
