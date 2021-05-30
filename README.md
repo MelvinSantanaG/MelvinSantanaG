@@ -18,7 +18,7 @@
 
 📄 HTML5 + 🧢👕👖👟 CCS3 + 💡 JAVASCRIPT.
 
-📄 HTML5 + 🧢👕👖👟 CCS3 + 💡 JAVASCRIPT + 📥 BOOTSTRAP.
+📄 HTML5 + 🧢👕👖👟 CCS3 + 💡 JAVASCRIPT + 📥 BOOTSTRAP5.
 
 💾 DATABASE. 
 
