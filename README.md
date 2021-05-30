@@ -22,6 +22,19 @@
 
 💾 DATABASE. 
 
+👨‍🏫 These pages are what I use to research English vocabulary.
+
+https://www.wordreference.com
+https://www.dictionary.com
+https://www.oxfordlearnersdictionaries.com
+https://www.spanishdict.com
+https://www.yourdictionary.com
+https://www.thefreedictionary.com
+https://www.linguee.com
+mobile-dictionary.reverso.net
+https://www.merriam-webster.com
+www.collinsdictionary.com
+https://www.wordhippo.com
 
 <!--
 **MelvinSantanaG/MelvinSantanaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
