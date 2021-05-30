@@ -22,7 +22,7 @@
 
 💾 DATABASE. 
 
-👨‍🏫 These pages are what I use to research English vocabulary.
+👨‍🏫 These are my favorite pages for researching English vocabulary.
 
 https://www.wordreference.com
 https://www.dictionary.com
@@ -36,7 +36,7 @@ https://www.merriam-webster.com
 https://www.collinsdictionary.com
 https://www.wordhippo.com
 
-🔎 These pages are what I use to research programming languages.
+🔎 These are my favorite pages for researching programming languages.
 
 https://www.bitdegree.org
 https://www.codecademy.com
