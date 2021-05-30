@@ -36,6 +36,14 @@ https://www.merriam-webster.com
 https://www.collinsdictionary.com
 https://www.wordhippo.com
 
+🔎 These pages are what I use to research programming languages.
+
+https://www.bitdegree.org/learn/
+https://www.codecademy.com/
+https://www.freecodecamp.org/
+https://www.codewars.com/
+https://www.udemy.com/courses/development/web-development/
+
 <!--
 **MelvinSantanaG/MelvinSantanaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
