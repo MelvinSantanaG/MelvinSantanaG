@@ -16,7 +16,7 @@
 
 🆎️ C#.
 
-💾 Query language.
+💾 Transact-SQL.
 
 📄 HTML5 + 🧢👕👖👟 CCS3 + 💡 JAVASCRIPT.
 
