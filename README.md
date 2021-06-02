@@ -38,8 +38,6 @@ https://www.thefreedictionary.com
 
 https://www.linguee.com
 
-https://www.mobile-dictionary.reverso.net
-
 https://www.merriam-webster.com
 
 https://www.collinsdictionary.com
