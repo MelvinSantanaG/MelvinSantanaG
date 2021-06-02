@@ -22,7 +22,7 @@
 
 📄 HTML5 + 🧢👕👖👟 CCS3 + 💡 JAVASCRIPT + 📥 BOOTSTRAP5.
 
-💾 DATABASE. 
+💾 DATABASE Microsoft SQL Server Management Studio. 
 
 👨‍🏫 These are my favorite pages for researching English vocabulary.
 
