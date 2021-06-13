@@ -1,4 +1,4 @@
-👋 Hi there my people.
+👋 Hi there everyone.
 
 🤱 I was born in the Dominican Republic.
 
