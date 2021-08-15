@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 #🌱 I am currently these are my learning objectives
 
-⛾ ![image](https://user-images.githubusercontent.com/75086982/129490339-87b47463-90b5-4e2b-8ef7-fbe99e4ca175.png)
+⛾ ![java](https://user-images.githubusercontent.com/75086982/129490552-672ed444-c354-40a1-8943-82173c13987d.jpg)
 JAVA. 
 
 🐍 PYTHON.
