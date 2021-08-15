@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi there everyone.
+# 👋 Hi there everyone.
 
-### 🏠 I currently live in Dominican Republic.
+# 🏠 I currently live in Dominican Republic.
 
-### 🌱 I am currently these are my learning objectives
+# 🌱 I am currently these are my learning objectives
 
 ![csharp](https://user-images.githubusercontent.com/75086982/129490889-955736a2-51c2-4752-89ec-0bf8cba60a32.jpg) ![java](https://user-images.githubusercontent.com/75086982/129490552-672ed444-c354-40a1-8943-82173c13987d.jpg) ![python](https://user-images.githubusercontent.com/75086982/129490653-49a65ea8-f6a7-490f-91fe-7e1243bb60b3.jpg) ![html5](https://user-images.githubusercontent.com/75086982/129491517-4ec90f5d-7233-4e27-b867-61872a752c41.jpg) ![css3](https://user-images.githubusercontent.com/75086982/129491455-361aaf24-714e-4088-8ce8-8fbe26892eb7.jpg) ![microsoftsqlserver](https://user-images.githubusercontent.com/75086982/129491337-5449439d-f324-4ea4-bd00-74741295ad0b.jpg) ![js](https://user-images.githubusercontent.com/75086982/129491635-f33e8d62-1c06-45bb-9178-c713b9e15df6.jpg)
 
@@ -43,7 +43,7 @@ https://www.collinsdictionary.com
 
 https://www.wordhippo.com
 
-#🔎 These are my favorite pages for researching programming languages.
+# 🔎 These are my favorite pages for researching programming languages.
 
 https://www.bitdegree.org
 
