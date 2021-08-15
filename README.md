@@ -1,10 +1,8 @@
-👋 Hi there everyone.
+#👋 Hi there everyone.
 
-🤱 I was born in the Dominican Republic.
+#🏠 I currently live in Dominican Republic.
 
-🏠 I currently live in Dominican Republic.
-
-🌱 I am currently these are my learning objectives
+#🌱 I am currently these are my learning objectives
 
 ⛾ JAVA. 
 
@@ -24,7 +22,7 @@
 
 💾 DATABASE: Microsoft SQL Server. 
 
-👨‍🏫 These are my favorite pages for researching English vocabulary.
+#👨‍🏫 These are my favorite pages for researching English vocabulary.
 
 https://www.wordreference.com
 
@@ -46,7 +44,7 @@ https://www.collinsdictionary.com
 
 https://www.wordhippo.com
 
-🔎 These are my favorite pages for researching programming languages.
+#🔎 These are my favorite pages for researching programming languages.
 
 https://www.bitdegree.org
 
