@@ -12,30 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 #👋 Hi there everyone.
 
 #🏠 I currently live in Dominican Republic.
 
 #🌱 I am currently these are my learning objectives
 
-⛾ ![java](https://user-images.githubusercontent.com/75086982/129490552-672ed444-c354-40a1-8943-82173c13987d.jpg)
-JAVA. 
+![csharp](https://user-images.githubusercontent.com/75086982/129490889-955736a2-51c2-4752-89ec-0bf8cba60a32.jpg)
 
-🐍 PYTHON.
+![java](https://user-images.githubusercontent.com/75086982/129490552-672ed444-c354-40a1-8943-82173c13987d.jpg)
 
-🅰️ C.
+![python](https://user-images.githubusercontent.com/75086982/129490653-49a65ea8-f6a7-490f-91fe-7e1243bb60b3.jpg)
 
-🅱️ C++.
+![html5](https://user-images.githubusercontent.com/75086982/129490772-8298bbb2-7ce5-4204-9935-5c493e6a83b0.jpg)
 
-🆎️ C#.
+![css3](https://user-images.githubusercontent.com/75086982/129490929-8436b506-5bb0-4762-829f-094b3c4115af.jpg)
 
-💾 Transact-SQL.
-
-📄 HTML5 + 🧢👕👖👟 CCS3 + 💡 JAVASCRIPT.
-
-📄 HTML5 + 🧢👕👖👟 CCS3 + 💡 JAVASCRIPT + 📥 BOOTSTRAP5.
-
-💾 DATABASE: Microsoft SQL Server. 
+![microsoftsqlserver](https://user-images.githubusercontent.com/75086982/129491000-036b7a6e-fb06-40aa-8ba3-eb94d8a87b85.jpg)
 
 #👨‍🏫 These are my favorite pages for researching English vocabulary.
 
