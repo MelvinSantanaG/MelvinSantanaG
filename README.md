@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 # 🌱 I am currently these are my learning objectives
 
-![csharp](https://user-images.githubusercontent.com/75086982/129490889-955736a2-51c2-4752-89ec-0bf8cba60a32.jpg) ![java](https://user-images.githubusercontent.com/75086982/129490552-672ed444-c354-40a1-8943-82173c13987d.jpg) ![python](https://user-images.githubusercontent.com/75086982/129490653-49a65ea8-f6a7-490f-91fe-7e1243bb60b3.jpg) ![html5](https://user-images.githubusercontent.com/75086982/129491517-4ec90f5d-7233-4e27-b867-61872a752c41.jpg) ![css3](https://user-images.githubusercontent.com/75086982/129491455-361aaf24-714e-4088-8ce8-8fbe26892eb7.jpg) ![microsoftsqlserver](https://user-images.githubusercontent.com/75086982/129491337-5449439d-f324-4ea4-bd00-74741295ad0b.jpg) ![js](https://user-images.githubusercontent.com/75086982/129491635-f33e8d62-1c06-45bb-9178-c713b9e15df6.jpg)
+![csharp2](https://user-images.githubusercontent.com/75086982/129494483-dfb5f60d-045c-4cf4-912e-98a54c2c5b72.jpg) ![java2](https://user-images.githubusercontent.com/75086982/129494495-12f3c27f-537f-4c53-afe0-11a4dea990bc.jpg) ![python](https://user-images.githubusercontent.com/75086982/129490653-49a65ea8-f6a7-490f-91fe-7e1243bb60b3.jpg) ![html52](https://user-images.githubusercontent.com/75086982/129494235-b00bad73-c4c8-4540-a769-5fd5e04a9123.jpg) ![css32](https://user-images.githubusercontent.com/75086982/129494180-d3f1f417-0ebb-4164-af4c-13eead6f132e.jpg) ![microsoftsqlserver2](https://user-images.githubusercontent.com/75086982/129493958-2c0b6d9b-7522-4b7a-9d63-97a933c2ba12.jpg) ![js2](https://user-images.githubusercontent.com/75086982/129494107-9a2741a6-755b-4aaa-95e3-a0ec0d606e17.jpg)
+
 
 # 👨‍🏫 These are my favorite pages for researching English vocabulary.
 
