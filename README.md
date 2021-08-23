@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 # 🏠 I currently live in Dominican Republic.
 
+![republicadominicana](https://user-images.githubusercontent.com/75086982/130533229-a6b253b8-3f0e-4166-babf-fc7612de60b7.jpg)
+
 # 🌱 I am currently these are my programming languages I have as learning objectives.
 
 ![csharp2](https://user-images.githubusercontent.com/75086982/129494483-dfb5f60d-045c-4cf4-912e-98a54c2c5b72.jpg) ![js2](https://user-images.githubusercontent.com/75086982/129494107-9a2741a6-755b-4aaa-95e3-a0ec0d606e17.jpg)
@@ -43,7 +45,7 @@ https://www.collinsdictionary.com
 
 https://www.wordhippo.com
 
-# 🔎 These are my favorite pages for researching programming languages.
+# 🔎 These are my favorites pages for researching programming languages.
 
 https://www.bitdegree.org
 
