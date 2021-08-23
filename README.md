@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 # 🏠 I currently live in Dominican Republic.
 
-![republicadominicana2](https://user-images.githubusercontent.com/75086982/130533489-b06447d3-7ab9-4464-8b1a-5e9a1c93138c.jpg)
-
-# 🌱 I am currently these are my programming languages I have as learning objectives.
+# 🌱 I am currently these are my programming languages I have as learning of objectives.
 
 ![csharp2](https://user-images.githubusercontent.com/75086982/129494483-dfb5f60d-045c-4cf4-912e-98a54c2c5b72.jpg) ![js2](https://user-images.githubusercontent.com/75086982/129494107-9a2741a6-755b-4aaa-95e3-a0ec0d606e17.jpg)
 
@@ -75,6 +73,6 @@ https://leetcode.com
 
 https://sparraguerra.wordpress.com/2015/06/18/c-como-ha-evolucionado-nuestro-lenguaje-favorito
 
-# 🌱 I am currently learning to use SQL Server one of the proposals and integrated by the technologies proposed by Microsoft.
+# 🌱 I am currently learning how to use SQL Server is one of the proposals and integrated by the technologies proposed by Microsoft.
 
 ![microsoftsqlserver2](https://user-images.githubusercontent.com/75086982/129493958-2c0b6d9b-7522-4b7a-9d63-97a933c2ba12.jpg)
