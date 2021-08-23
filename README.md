@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 🏠 I currently live in Dominican Republic.
 
-![republicadominicana](https://user-images.githubusercontent.com/75086982/130533229-a6b253b8-3f0e-4166-babf-fc7612de60b7.jpg)
+![republicadominicana2](https://user-images.githubusercontent.com/75086982/130533489-b06447d3-7ab9-4464-8b1a-5e9a1c93138c.jpg)
 
 # 🌱 I am currently these are my programming languages I have as learning objectives.
 
