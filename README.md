@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # 👋 Hi everyone.
 
 # 🏠 I currently live in Dominican Republic.![republicadominicana](https://user-images.githubusercontent.com/75086982/130682477-f6dd9c64-0163-4301-a31e-03f57ca087b8.png)
+![republicadominicana](https://user-images.githubusercontent.com/75086982/130682863-a10226cd-18ba-4522-83a1-86c1d054dfb0.png)
 
 
 # 🌱 I am currently these are my programming languages I have as learning of objectives.
