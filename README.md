@@ -73,6 +73,20 @@ https://leetcode.com
 
 https://sparraguerra.wordpress.com/2015/06/18/c-como-ha-evolucionado-nuestro-lenguaje-favorito
 
+# 🔎 These are my favorites pages for practice the programming languages.
+
+Coding Games and Programming Challenges to Code Better | https://www.codingame.com/
+
+HackerRank | https://www.hackerrank.com/
+
+Coding Tests & Assessments for Interviews | CodeSignal https://codesignal.com/
+
+Logra el dominio a través del desafío | Codewars https://www.codewars.com/
+
+FreeCodeCamp | https://www.freecodecamp.org/espanol/
+
+LeetCode | https://leetcode.com/
+
 # 🌱 I am currently learning how to use SQL Server is one of the proposals and integrated by the technologies proposed by Microsoft.
 
 ![microsoftsqlserver2](https://user-images.githubusercontent.com/75086982/129493958-2c0b6d9b-7522-4b7a-9d63-97a933c2ba12.jpg)
