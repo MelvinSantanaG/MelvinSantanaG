@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 
 # 👋 Hi everyone.
 
-# 🏠 I currently live in ![republicadominicana](https://user-images.githubusercontent.com/75086982/130682863-a10226cd-18ba-4522-83a1-86c1d054dfb0.png).
+# 🏠 I currently live in 
 
+![republicadominicana](https://user-images.githubusercontent.com/75086982/130682863-a10226cd-18ba-4522-83a1-86c1d054dfb0.png).
 
 # 🌱 I am currently these are my programming languages I have as learning of objectives.
 
