@@ -73,7 +73,7 @@ https://leetcode.com
 
 https://sparraguerra.wordpress.com/2015/06/18/c-como-ha-evolucionado-nuestro-lenguaje-favorito
 
-# 🔎 These are my favorites pages for practice the programming languages.
+# 🔎 I will going to possibly used to this page for practice the programming languages.
 
 Coding Games and Programming Challenges to Code Better | https://www.codingame.com/
 
