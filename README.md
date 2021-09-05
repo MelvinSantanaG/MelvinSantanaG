@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 # 👨‍🏫 These are my favorites pages for researching English vocabulary.
 
+https://dictionary.cambridge.org/es/amp/
+
 https://www.wordreference.com
 
 https://www.dictionary.com
