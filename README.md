@@ -47,16 +47,6 @@ https://www.wordhippo.com
 
 # 🔎 These are my favorites pages for researching programming languages.
 
-https://www.bitdegree.org
-
-https://www.codecademy.com
-
-https://www.freecodecamp.org
-
-https://www.codewars.com
-
-https://www.udemy.com
-
 https://docs.microsoft.com/en-us
 
 https://www.rafaelacosta.net/Blog/2018/6/6/entity-framework-core-database-first-en-aplicaciones-net-mvc
