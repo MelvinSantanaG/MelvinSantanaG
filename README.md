@@ -59,10 +59,6 @@ https://www.devart.com/dotconnect/postgresql/docs/EFCore-Database-First-NET-Core
 
 https://www.entityframeworktutorial.net/efcore/create-model-for-existing-database-in-ef-core.aspx
 
-https://www.freecodecamp.org/espanol
-
-https://leetcode.com
-
 https://sparraguerra.wordpress.com/2015/06/18/c-como-ha-evolucionado-nuestro-lenguaje-favorito
 
 # 🔎 I will going to possibly used to this page for practice the programming languages.
